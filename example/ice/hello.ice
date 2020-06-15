@@ -1,6 +1,6 @@
 #pragma once
 
-module Fear
+module HelloIce
 {
     exception RequestCanceledException
     {

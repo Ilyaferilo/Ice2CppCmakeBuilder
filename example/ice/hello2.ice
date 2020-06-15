@@ -1,7 +1,7 @@
 #pragma once
 #include "hello.ice"
 
-module Fear
+module HelloIce
 {
     interface Hello2
     {
