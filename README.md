@@ -1,5 +1,7 @@
 # Ice2CppCmakeBuilder
 
+[![Build Status](https://travis-ci.com/Ilyaferilo/Ice2CppCmakeBuilder.svg?branch=master)](https://travis-ci.com/Ilyaferilo/Ice2CppCmakeBuilder)
+
 Generate cpp library from ice-files in `ice_interface_dir` to `ice_build_dir`
 
 usage:
